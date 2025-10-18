@@ -1,2 +1,0 @@
-# Cal-bot
-caloriyabot
